@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chapter1"/>
+	<classpathentry kind="src" path="chapter2"/>
+	<classpathentry kind="src" path="chapter3"/>
+	<classpathentry kind="src" path="chapter4"/>
+	<classpathentry kind="src" path="chapter5"/>
+	<classpathentry kind="src" path="netty-phei"/>
+	<classpathentry kind="src" path="chapter6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

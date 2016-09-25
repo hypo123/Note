@@ -1,0 +1,7 @@
+并发列表允许不同的线程在同一时间添加或移除列表中的元素，而不会造成数据的不一致.
+
+ConcurrentLinkedDeque //非阻塞双端队列,链表实现
+
+LinkedBlockingDeque //阻塞双端队列，链表实现
+
+PriorityBlockingQueue //优先级阻塞队列
